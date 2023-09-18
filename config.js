@@ -17,7 +17,7 @@ function convertToBool(text, fault = 'true') {
 global.SESSION_ID = 'QueenNilu;;;A7Zw3LpQ#wO3DrX1Ts-uLd42OlRR-V3c795k8bR31cvvMKXy95cY' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://jinx_user:31ZnjwN69rcgi1MZTTFrK1n9t1AMgftd@dpg-ck4d2ol8ggls73e8ep2g-a.frankfurt-postgres.render.com/jinx'
 
 
 
@@ -55,7 +55,7 @@ global.PREFIX = '!' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/ca305aaaf78b493816b6c.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = '' // Set Alive Message
 
