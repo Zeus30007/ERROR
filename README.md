@@ -4,7 +4,7 @@
 </p> 
   
 <p align="center"> 
-<img src="https://i.gifer.com/3Oc9I.gif" width="300" height="300"/>
+<img src="https://media.tenor.com/vasZ7QTaWScAAAAd/fox-yawn.gif" width="300" height="300"/>
 </p>
 
 <p align="center">
