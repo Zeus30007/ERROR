@@ -4,11 +4,11 @@
 </p> 
   
 <p align="center"> 
-<img src="https://telegra.ph/file/1e63f0ee90304a12767c7.jpg" width="300" height="300"/>
+<img src="https://i.gifer.com/3Oc9I.gif" width="300" height="300"/>
 </p>
 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-Janiya-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/my_creater-mirai_Fox-red"></a>
 </p>
 <p align="center">
 <a href="https://github.com/Janithsadanuwan/Queen-Nilu-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Janithsadanuwan/Queen-Nilu-Md?color=white&style=flat-square"></a>
@@ -21,11 +21,7 @@
 
 ### Please Give One Star ✨ & [follow  me For notify my updates](https://github.com/Janithsadanuwan)
 
-## [`Version --> 2.0.1`](https://www.janithsadanuwan.tech/QueenNilu)
-
-
-## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
-
+## [`Version --> 1.0.1`]
 
 ## [`FORK QUEEN NILU REPO`](https://github.com/Janithsadanuwan/Queen-Nilu-Md/fork)
 
@@ -35,15 +31,3 @@
 
 ## [`HOW TO DEPLOY`](https://github.com/Janithsadanuwan/QUEEN-NILU-MD/blob/main/DEPLOY/README.md)
 
-
-
-
-## You Can't copy or clone this repo , Don't Waste Your Time😂
-
-***[JOIN ACCOUNCEMENT GROUP](https://chat.whatsapp.com/Lk3KCbvyaCyJ0QlouEL32K)***
-
-***[JOIN SUPPORT GROUP](https://chat.whatsapp.com/LVn5DG2V3UwBY5IDlG58kH)***
-
-***[JOIN PUBLIC GROUP](https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH)***
-
-## THANKS FOR USING QUEEN NILU 💃
